@@ -2,13 +2,11 @@
 
 <p>I’m Software Engineering student from Brazil, I really like energetic, video game, programming and AI.</p><br>
 
-<p>🌱 I’m currently learning JAVA and HTML 5</p>
-<p>✅ My goals is to work with AI development and mobile development</p>
+<p>🧑🏼‍💻 I’m currently learning JAVA, Kotlin and Python</p>
+<p>✅ My professional goal is to work with mobile development and software developmentt</p>
 <p>📫 How to reach me:<br>
-      --> Instagram: @MathiasWaibel or @Make_a_Code <br>
-      --> Personal site: mathwaibel.com   </p>
-
-
+      --> Instagram: @MathiasWaibel<br>
+      --> E-mail: math.waibel@gmail.com</p>
 <!---
 M4thWaibel/M4thWaibel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
